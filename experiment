@@ -1,0 +1,7 @@
+const person = {name: "terrance Roberts.", 
+occupation: {title: "District Manager", yearsHeld:2},
+pets: [{kind: "dog", name: "Fiona"}, 
+{kind: "cat", name: "Ralph"}]
+}
+
+console.log(person.occupation.yearsHeld);
